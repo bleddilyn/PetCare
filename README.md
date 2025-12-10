@@ -56,11 +56,3 @@ Essa seção é crucial para o novo tutor e utiliza os dados cadastrados dos pet
   <li><strong>@expo/vector-icons</strong>ícones como Ionicons, AntDesign, Feather</li>
 </ul>
 
-<h2>Como executar o projeto localmente</h2>
-
-Pré-requisitos
-<ul>
-  <li>Node.js e npm/yarn instalados</li>
-  <li>Expo CLI instalado globalmente: npm install -g expo-cli ou npm install -g expo</li>
-</ul>
-
