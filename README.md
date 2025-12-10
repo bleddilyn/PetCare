@@ -40,3 +40,27 @@ Essa seção é crucial para o novo tutor e utiliza os dados cadastrados dos pet
   <li><strong>Finalidade:</strong> Ajuda o adotante a se preparar e a cuidar adequadamente do seu novo membro da família, reduzindo as chances de devolução.</li>
 </ul>
 
+<h3>Gerenciamento de dados do usuário e UI</h3>
+<ul>
+  <li><strong>Login/Dados locais:</strong> Utiliza AsyncStorage para persistir dados do usuário logado (como o nome), garantindo uma experiência personalizada.</li>
+  <li><strong>Header customizado:</strong> Exibição do nome do usuário logado no cabeçalho, juntamente com o botão de acesso ao menu lateral (Drawer).</li>
+  <li><strong>Tipografia Customizada:</strong> Utilizada a fonte Kanit para garantir um visual coeso e profissional.</li>
+</ul>
+
+<h2>Tecnologias Utilizadas</h2>
+<ul>
+  <li><strong>React Native</strong> Desenvolvimento Mobile</li>
+  <li><strong>Expo:</strong> Framework e ferramentas de desenvolvimento</li>
+  <li><strong>@react-native-async-storage</strong>Persistência de dados locais</li>
+  <li><strong>expo-font</strong>Carregamento de fontes customizadas</li>
+  <li><strong>@expo/vector-icons</strong>ícones como Ionicons, AntDesign, Feather</li>
+</ul>
+
+<h2>Como executar o projeto localmente</h2>
+
+Pré-requisitos
+<ul>
+  <li>Node.js e npm/yarn instalados</li>
+  <li>Expo CLI instalado globalmente: npm install -g expo-cli ou npm install -g expo</li>
+</ul>
+
