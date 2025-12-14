@@ -10,7 +10,7 @@ Identificação dos Envolvidos
 
 <h1> Contexto </h1>
 
-O PetCare é um aplicativo mobile que centraliza informações sobre animais disponíveis para adoção em diversas OGNs. O objetivo principal é dar visibilidade aos pets resgatados e equipar o novo tutor com recursos para gerenciar a saúde e os cuidados básicos do animal.
+O PetCare é um aplicativo mobile que centraliza informações sobre animais disponíveis para adoção em diversas ONgs. O objetivo principal é dar visibilidade aos pets resgatados e equipar o novo tutor com recursos para gerenciar a saúde e os cuidados básicos do animal.
 
 <h1> Funcionalidades Principais </h1>
 
