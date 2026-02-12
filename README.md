@@ -1,3 +1,6 @@
+<p align="center">
+  <img width="200" height="200" alt="PetCareLogo" src="https://github.com/user-attachments/assets/229b3d70-29dd-4286-82a0-01ec64c874e6" />
+</p>
 Projeto: PetCare
 <br>O miau cuidado para seu aumigo.</br>
 
